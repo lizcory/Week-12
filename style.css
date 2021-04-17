@@ -6,6 +6,11 @@ html, body {
 .container {
     width: 1140px;
     margin: auto;
+    /* background-color: lightblue; */
+}
+
+svg {
+    /* background-color: pink; */
 }
 
 @media screen and (max-width: 1200px) {
